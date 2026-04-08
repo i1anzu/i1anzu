@@ -2,10 +2,6 @@
 
 <h1 align="center">Frontend Developer</h1>
 
-<p align="center">
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Roboto&size=30&pause=1000&color=529FF7&width=435&lines=Frontend+developer)](https://git.io/typing-svg)
-</p>
-
 <h2>🛠 Stack</h2>
 
 <div>
