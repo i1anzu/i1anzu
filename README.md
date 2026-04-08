@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=blur&color=0:4facfe,100:00f2fe&height=300&section=header&text=🐰jiwoo's%20GITHUB🐰&fontSize=60)
+![header](https://capsule-render.vercel.app/api?type=blur&color=0:4facfe,100:00f2fe&height=300&section=header&text=jiwoo's%20GITHUB&fontSize=60)
 
 <h1 align="center">🐰jiwoo's GITHUB🐰</h1>
 
