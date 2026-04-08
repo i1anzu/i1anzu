@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=blur&color=0:4facfe,100:00f2fe&height=200&section=header&text=jiwoo's%20GITHUB&fontSize=40)
+![header](https://capsule-render.vercel.app/api?type=blur&color=0:a8e063,100:56ab2f&height=200&section=header&text=jiwoo's%20GITHUB&fontSize=40)
 
 <h2>🛠 Stack</h2>
 
