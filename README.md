@@ -1,6 +1,6 @@
-## [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Front+end+developer;)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Front+end+developer;)](https://git.io/typing-svg)
 
-<h1> stack </h1>
+<h2> stack </h2>
 
 <div>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=HTML5&logoColor=white">
