@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Front+end+developer;)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=F7F022&width=435&lines=Front+end+developer)](https://git.io/typing-svg)
 
 <h2> stack </h2>
 
