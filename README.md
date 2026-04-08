@@ -1,6 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=blur&color=0:4facfe,100:00f2fe&height=300&section=header&text=jiwoo's%20GITHUB&fontSize=60)
 
-<h1 align="center">🐰jiwoo's GITHUB🐰</h1>
+<h1 align="center">Frontend Developer</h1>
 
 <p align="center">
   사용자 경험을 중요하게 생각하는 개발자입니다.
