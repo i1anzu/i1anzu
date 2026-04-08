@@ -1,5 +1,5 @@
-## HI 👩‍💻
-<h2>🛠 Stack</h2>
+HI 👩‍💻
+# 🛠 Stack</h2>
 
 <div>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=HTML5&logoColor=white">
