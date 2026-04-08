@@ -3,10 +3,13 @@
 <h1 align="center">Frontend Developer</h1>
 
 <p align="center">
-  사용자 경험을 중요하게 생각하는 개발자입니다.
+  <a href="https://instagram.com/i1anzu">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white">
+  </a>
+  <a href="mailto:s26040@gsm.hs.kr">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white">
+  </a>
 </p>
-
----
 
 <h2>🛠 Stack</h2>
 
