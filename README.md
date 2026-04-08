@@ -6,19 +6,6 @@
   <a href="https://instagram.com/i1anzu">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white">
   </a>
-  <a href="mailto:s26040@gsm.hs.kr">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white">
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://instagram.com/YOUR_ID">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white">
-  </a>
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_ID&color=blue&style=for-the-badge">
 </p>
 
 <h2>🛠 Stack</h2>
