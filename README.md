@@ -1,3 +1,5 @@
+![header](https://capsule-render.vercel.app/api?type=blur)
+
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Roboto&size=30&pause=1000&color=529FF7&width=435&lines=Front+end+developer)](https://git.io/typing-svg)
 
 <h2> stack </h2>
