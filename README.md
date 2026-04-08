@@ -16,11 +16,3 @@
     height="120"
   />
 </a>
-  
-<a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=i1anzu&utm_content=farm">
-<img
-  src="https://render.gitanimals.org/farms/i1anzu"
-  width="600"
-  height="300"
-/>
-</a>
