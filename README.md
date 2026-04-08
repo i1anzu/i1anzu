@@ -1,13 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=blur&color=0:a8e063,100:56ab2f&height=200&section=header&text=jiwoo's%20GITHUB&fontSize=40)
-
-<a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=i1anzu&utm_content=line">
-  <img
-    src="https://render.gitanimals.org/lines/i1anzu?pet-id=829641697301339272"
-    width="900"
-    height="120"
-  />
-</a>
-
+## HI 👩‍💻
 <h2>🛠 Stack</h2>
 
 <div>
