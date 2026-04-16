@@ -1,15 +1,14 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=90,lightgreen,green&height=230&section=header&text=FrontEnd%20developer&fontSize=50&textY=40" />
-<div align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Roboto&pause=1000&color=000000&center=true&vCenter=true&width=435&lines=👋+Hi,+I%27m+Jiwoo+Yang" alt="Typing SVG" />
-  </a>
-</div>
 
 ### 👋 Hi, I'm Jiwoo Yang  
-I will always strive to be a hardworking developer! 🚀  
+I will become a frontend developer who always works diligently!🐰
 
 <h2> 👩‍💻 About Me</h2>
 
+- 👾  FrontEnd Developer, consistently hardworking
+- 🚀 Interested in React, TypeScript, and modern web tools  
+- 💌 How to reach me: [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/i1anzu)
+![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:s26040@gsm.hs.kr)
 
 <h2> 🛠 Stack</h2>
 
