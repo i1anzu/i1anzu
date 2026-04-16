@@ -8,7 +8,7 @@ I will become a frontend developer who always works diligently!🐰
 - 👾  FrontEnd Developer, consistently hardworking
 - 🚀 Interested in React, TypeScript, and modern web tools  
 - 💌 How to reach me: [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/i1anzu)
-![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:s26040@gsm.hs.kr)
+[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:s26040@gsm.hs.kr)](mailto:s26040@gsm.hs.kr)
 
 <h2> 🛠 Stack</h2>
 
