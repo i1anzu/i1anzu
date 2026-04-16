@@ -1,7 +1,15 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=90,lightgreen,green&height=230&section=header&text=FrontEnd%20developer&fontSize=50&textY=40" />
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Roboto&pause=1000&color=BCA9F7&center=true&vCenter=true&width=435&lines=Jiwoo+Yang's+GitHub" alt="Typing SVG" /></a>
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Roboto&pause=1000&color=000000&center=true&vCenter=true&width=435&lines=👋+Hi,+I%27m+Jiwoo+Yang" alt="Typing SVG" />
+  </a>
+</div>
+
+### 👋 Hi, I'm Jiwoo Yang  
+I will always strive to be a hardworking developer! 🚀  
+
 <h2> 👩‍💻 About Me</h2>
-- FrontEnd 전공 공부중
+
 
 <h2> 🛠 Stack</h2>
 
