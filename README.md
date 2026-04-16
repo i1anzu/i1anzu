@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=90,lightgreen,green&height=230&section=header&text=FrontEnd%20developer&fontSize=55" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=90,lightgreen,green&height=300&section=header&text=FrontEnd%20developer&fontSize=50&textY=40" />
 <h2> 🛠 Stack</h2>
 
 <div>
