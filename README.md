@@ -1,3 +1,4 @@
+<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=FrontEnd%20developer&fontSize=90" />
 <h2> 🛠 Stack</h2>
 
 <div>
