@@ -1,5 +1,5 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=90,lightgreen,green&height=230&section=header&text=FrontEnd%20developer&fontSize=50&textY=40" />
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Roboto&pause=1000&color=BCA9F7&center=true&vCenter=true&width=435&lines=Jiwoo+Yang's+GitHub)](https://git.io/typing-svg)
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Roboto&pause=1000&color=BCA9F7&center=true&vCenter=true&width=435&lines=Jiwoo+Yang's+GitHub" alt="Typing SVG" /></a>
 <h2> 🛠 Stack</h2>
 
 <div>
