@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=90,lightgreen,green&height=230&section=header&text=FrontEnd%20developer&fontSize=50&textY=40" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=90,lightgreen,green&height=230&section=header&text=IT Network System%20developer&fontSize=50&textY=40" />
 
 ### 👋 Hi, I'm Jiwoo Yang  
 I will become a frontend developer who always works diligently!🐰
